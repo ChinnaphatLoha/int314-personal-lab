@@ -3,3 +3,5 @@
 
 # Ignore all PDFs
 *.pdf
+
+node_modules/
